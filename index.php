@@ -69,7 +69,7 @@ span.psw {
 
 <form action="index01.php" method="post">
   <div class="imgcontainer">
-    <img src="image/123.jpg" alt="Avatar" class="avatar">
+    <img src="123.jpg" alt="Avatar" class="avatar">
   </div>
   <div align='center' class="container">
     <div>
